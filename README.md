@@ -15,3 +15,7 @@ Este no es un proyecto que sea mi idea, solo le inclui la parte de docker, le ag
 https://towardsdatascience.com/creating-a-cover-letter-generator-using-python-and-gpt-3-297a6b2a3886
 
 https://gist.github.com/angelaaaateng/646a178b00f543a5a325865dd16a3976#file-coverletter-py
+
+# URL demo (autor original)
+
+https://angelaaaateng-job-app-tool-streamlit-app-0kcd07.streamlitapp.com/
