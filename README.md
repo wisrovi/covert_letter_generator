@@ -10,7 +10,7 @@ Luego, simplemente vaya a su navegador y carga la url: http://localhost:8501/
 
 # Agradecimientos:
 
-Este no es un proyecto que sea mi idea, le agradezco al autor original por compartirlo:
+Este no es un proyecto que sea mi idea, solo le inclui la parte de docker, le agradezco al autor original por compartirlo:
 
 https://towardsdatascience.com/creating-a-cover-letter-generator-using-python-and-gpt-3-297a6b2a3886
 
