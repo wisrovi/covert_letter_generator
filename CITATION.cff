@@ -1,0 +1,8 @@
+@software{Lisa_My_Research_Software_2017,
+  author = {Rodriguez Villamizar, William Steve},
+  month = {09},
+  title = {{covert_letter_generator}},
+  url = {https://github.com/wisrovi/covert_letter_generator},
+  version = {1.0.1},
+  year = {2022}
+}
