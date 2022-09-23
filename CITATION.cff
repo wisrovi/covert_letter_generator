@@ -1,8 +1,10 @@
-@software{Lisa_My_Research_Software_2017,
-  author = {Rodriguez Villamizar, William Steve},
-  month = {09},
-  title = {{covert_letter_generator}},
-  url = {https://github.com/wisrovi/covert_letter_generator},
-  version = {1.0.1},
-  year = {2022}
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "WISROVI"
+  given-names: "William Steve Rodriguez Villamizar"
+title: "covert letter generator"
+version: 1.0.1
+doi: 10.5281/zenodo.1234
+date-released: 2022-09-23
+url: "https://github.com/wisrovi/covert_letter_generator"
